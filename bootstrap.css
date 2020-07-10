@@ -1,5 +1,29 @@
+
+
+/* Add responsiveness - on screens less than 991px*/ 
+@media screen and (max-width: 991px) {
+    img {
+      width: 100%;
+    }
+
+
+
 h3 {
     padding: 20px;
     text-align: center;
     
 }
+      
+
+.top-right {
+    position: absolute;
+  }
+
+img {
+    position: relative;
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    img {width: 100%};
