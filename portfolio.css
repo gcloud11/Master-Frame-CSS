@@ -1,0 +1,22 @@
+/*---Media Quaries---*/
+@media (max-widt: 640px) {
+
+}
+
+@media (max-widt: 768px) {
+    
+}
+
+@media (max-widt: 980px) {
+    
+}
+
+h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    color: rgb(252, 251, 250);
+    background-color: rgb(9, 146, 151);
+    padding: 30px;
+    margin: 0;
+}
